@@ -39,7 +39,7 @@
 }*/
 
  #intro .inner  {
-	background: url(/home/user/Desktop/projetFolo/projetFoloTheSource/images/ripple.jpg) center center;
+	background: url(./images/ripple.jpg) center center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 100%;
