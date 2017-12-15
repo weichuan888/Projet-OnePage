@@ -12,9 +12,10 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#210202",
-    "background_color": "#210202",
+    "theme_color": "#2196F3",
+    "background_color": "#2196F3",
     "display": "standalone",
-    "orientation": "portrait"
+    "orientation": "landscape",
+    "display": "browser"
 
 }
